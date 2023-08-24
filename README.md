@@ -2,6 +2,7 @@
 
 # Reference
 ## Git&Gtihub
+### 필수
 [[고정댓글필독] Git은 뭐고 Github은 뭔가요?](https://youtu.be/Bd35Ze7-dIw?si=7OZHM8lNjbRrn48V)
 
 [깃. 깃허브. 기초개념 잡아드림. 5분 순삭.](https://youtu.be/YFNQwo7iTNc?si=vNCYzKgfyyBYhh2T)
