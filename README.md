@@ -19,6 +19,10 @@
 
 [[파이썬 기초 14강] 파이썬 클래스, 객체, 인스턴스, 생성자, 메서드, self 개념 총정리!! 정말 쉽게 설명해 드립니다.](https://youtu.be/FRHGtAvU03Q?si=aCYnUe83YZ0QH8kd)
 
+[딥러닝을 위한 파이썬 입문 - 모듈](https://youtu.be/XKqhZdj2y1o?si=R7vyaISD4v7GHZ-Z)
+
+[딥러닝을 위한 파이썬 입문 - 클래스](https://youtu.be/0x5-DYnQNVY?si=piwVPY5NRbN3SeD5)
+
 ### 보조
 [파이썬 쉽게 배우기 - 08 객체와 클래스](https://youtu.be/h-OwxPqjMpc)
 
