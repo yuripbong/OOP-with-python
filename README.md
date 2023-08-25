@@ -7,7 +7,7 @@
 
 [깃. 깃허브. 기초개념 잡아드림. 5분 순삭.](https://youtu.be/YFNQwo7iTNc?si=vNCYzKgfyyBYhh2T)
 
-[Github.com](https://youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7&si=kExfM3Hd0uvsnerU)
+[Github.com. 생활 코딩.](https://youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7&si=kExfM3Hd0uvsnerU)
 
 ## OOP
 ### 필수
